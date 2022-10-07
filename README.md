@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dinesh-suryanand
+- 👋 Hi, I’m Dinesh
 - 👀 I’m interested in Full-Stack Development
 - 🌱 I’m currently learning DRF,Flutter
 - 💞️ I’m looking to collaborate on ...
