@@ -1,5 +1,5 @@
 
-<a href="https://app.daily.dev/dineshsuryanand"><img src="https://api.daily.dev/devcards/3842a3910408451e86353c86d7696258.png?r=lrk" width="400" alt="Dinesh Suryanand's Dev Card"/></a>
+<a href="https://app.daily.dev/dineshsuryanand"><img src="https://api.daily.dev/devcards/3842a3910408451e86353c86d7696258.png?r=lrk" width="100" alt="Dinesh Suryanand's Dev Card"/></a>
 
 - 👋 Hi, I’m Dinesh
 - 👀 I’m interested in Full-Stack Development and Data Science
