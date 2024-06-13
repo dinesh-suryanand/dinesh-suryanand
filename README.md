@@ -1,6 +1,5 @@
 
-<a href="https://app.daily.dev/dineshsuryanand"><img src="https://api.daily.dev/devcards/v2/g6qlJRvW2IXJTUqJGUXMI.png?type=default&r=2lz" width="123" alt="Dinesh Suryanand's Dev Card"/></a>
-
+<a href="https://app.daily.dev/dineshsuryanand"><img src="https://api.daily.dev/devcards/v2/g6qlJRvW2IXJTUqJGUXMI.png?type=default&r=9jb" width="256" alt="Dinesh Suryanand's Dev Card"/></a>
 - 👋 Hi, I’m Dinesh
 - 👀 I’m interested in Full-Stack Development and Data Science
 - 🌱 I’m currently learning SpringBoot,Angular
