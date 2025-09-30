@@ -7,6 +7,4 @@
 
 
 
-
-<a href="https://app.daily.dev/dineshsuryanand"><img src="https://api.daily.dev/devcards/v2/g6qlJRvW2IXJTUqJGUXMI.png?type=default&r=9jb" width="356" alt="Dinesh Suryanand's Dev Card"/></a>
   
