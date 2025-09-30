@@ -3,8 +3,7 @@
 - 👀 I’m interested in Full-Stack Development
 - 🌱 I’m currently working with SpringBoot,Angular
 - 💞️ I’m looking to collaborate on anything that intrests me
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/dinesh-suryanand/) [Insta](https://www.instagram.com/i_dineshsuryanand/)
-
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/dinesh-suryanand/)
 Tech-stack
 
 
