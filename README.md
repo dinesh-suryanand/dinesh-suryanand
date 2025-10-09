@@ -1,81 +1,74 @@
+💻 Dinesh Suryanand | Fintech & Full-Stack Developer
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MicaelliCode/micaellicode/main/assets/readme-title.gif" alt="Welcome to Dinesh's GitHub" width="600"/>
+<h1 align="center">Hello, I'm Dinesh! 👋</h1>
 
-  <p>
-    <a href="https://linkedin.com/in/dinesh-suryanand/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
-    </a>
-    <a href="mailto:dineshsuryanand@icloud.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
-    </a>
-  </p>
+<p>
+A Full-Stack Developer passionate about building robust, scalable systems with a deep focus on Fintech architecture. I specialize in the Spring/Java ecosystem and modern front-end technologies.
+</p>
 
-  <p>
-    🚀 A passionate **Full-Stack Developer** building robust and scalable applications.
-    <br/>
-    Currently diving deep into **Fintech** solutions and exploring new technologies.
-  </p>
-  
-  <p>
-    <img src="https://img.shields.io/badge/Learning-Always-0078D4?style=for-the-badge&logo=gitbook&logoColor=white" alt="Learning Badge"/>
-    <img src="https://img.shields.io/badge/Collaboration-Open_to_Ideas-6CC644?style=for-the-badge&logo=github&logoColor=white" alt="Collaboration Badge"/>
-  </p>
+<p>
+<img src="https://img.shields.io/badge/Currently_Building-Payment_Microservices-0A66C2?style=for-the-badge&logo=springboot&logoColor=white" alt="Current Project Badge"/>
+<img src="https://img.shields.io/badge/Stack-Spring_Boot%20|%20Angular%20|%20Go-6DB33F?style=for-the-badge&logo=java&logoColor=white" alt="Stack Badge"/>
+<img src="https://img.shields.io/badge/Collaboration-Open%20to%20Ideas-5391FE?style=for-the-badge&logo=github&logoColor=white" alt="Collaboration Badge"/>
+</p>
 
-  ---
 </div>
 
-<h2 align="center">🛠️ My Toolkit & Technologies</h2>
+🛠️ Core Technology Stack
+The list of technologies is now presented using the Skill Icons library for a compact and clean visual array.
 
 <div align="center">
-    <a href="https://skillicons.dev" target="_blank">
-        <img src="https://skillicons.dev/icons?i=java,spring,angular,html,css,js,ts,python,go,docker,kubernetes,aws,gcp,git,github,vscode,postman,postgresql,mysql,mongodb,kafka,rabbitmq" 
-             alt="My Tech Stack" 
-             style="margin-bottom: 10px;"
-             />
-    </a>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=java,spring,kotlin,angular,html,css,js,ts,go,docker,postgres,mysql,mongodb,kafka,gcp,git,github,vscode,postman"
+alt="Core Technology Stack"
+style="margin-bottom: 10px;"
+/>
+</a>
 </div>
 
----
+🚀 Projects & Contributions
+The project section is now formatted with a more standard development structure. Make sure to replace the placeholder links and descriptions with your actual work!
 
-<h2 align="center">📊 My GitHub Stats</h2>
+Fintech Architectures
+Project Title	Core Technologies	Description
+Payment-Platform-MVP	Java, Spring Boot, Kafka, PostgreSQL	Building a complete, event-driven microservices payment system (current focus).
+[Project Name 2]	[Example: Angular, NodeJS, MongoDB]	[A short, impactful line describing what the project achieves or solves.]
 
+Export to Sheets
+Other Notable Projects
+[Repo Name]: [Short description of the repository's main purpose.]
+
+[Link to Repo]
+
+[Repo Name]: [Short description of the repository's main purpose.]
+
+[Link to Repo]
+
+📈 GitHub Stats
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=DineshSuryanand&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&line_height=25" 
-         alt="Dinesh's GitHub Stats" 
-         style="margin-bottom: 15px;"
-         />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DineshSuryanand&theme=dark&hide_border=true&border_radius=5" 
-         alt="Dinesh's GitHub Streak" 
-         style="margin-bottom: 15px;"
-         />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DineshSuryanand&layout=compact&theme=dark&hide_border=true&langs_count=6" 
-         alt="Dinesh's Top Languages" 
-         />
+<img src="https://github-readme-stats.vercel.app/api?username=DineshSuryanand&show_icons=true&theme=vue&hide_border=true&include_all_commits=true&count_private=true&line_height=25&title_color=41B883&icon_color=41B883"
+alt="Dinesh's GitHub Stats"
+style="margin-bottom: 15px;"
+/>
+
+<img src="[https://github-readme-streak-stats.herokuapp.com/?user=DineshSuryanand&theme=vue&hide_border=true&ring=41B883&currstreak=41B883&title_color=41B883&fire=41B883](https://github-readme-streak-stats.herokuapp.com/?user=DineshSuryanand&theme=vue&hide_border=true&ring=41B883&currstreak=41B883&title_color=41B883&fire=41B883)" 
+     alt="Dinesh's GitHub Streak" 
+     style="margin-bottom: 15px;"
+     />
+<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=DineshSuryanand&layout=compact&theme=vue&hide_border=true&langs_count=6&title_color=41B883&icon_color=41B883](https://github-readme-stats.vercel.app/api/top-langs/?username=DineshSuryanand&layout=compact&theme=vue&hide_border=true&langs_count=6&title_color=41B883&icon_color=41B883)" 
+     alt="Dinesh's Top Languages" 
+     />
 </div>
 
----
-
-<h2 align="center">🌟 Featured Projects / What I'm Working On</h2>
-
+🌐 Connect With Me
 <div align="center">
-    <h3>[Project Name 1]</h3>
-    <p>A brief, engaging description of your project. What problem does it solve?</p>
-    <p>
-        <a href="[Link to Project Repo]" target="_blank">View Project</a> | 
-        <a href="[Link to Live Demo (if any)]" target="_blank">Live Demo</a>
-    </p>
-    <br/>
-    <h3>[Project Name 2]</h3>
-    <p>Another compelling project description. Highlight key technologies or challenges.</p>
-    <p>
-        <a href="[Link to Project Repo]" target="_blank">View Project</a> | 
-        <a href="[Link to Blog Post (if any)]" target="_blank">Read More</a>
-    </p>
-</div>
+<p>I'm always open to discussing new ideas, especially around backend performance and distributed systems.</p>
 
----
-
-<div align="center">
-  <h3>🎉 Thanks for stopping by!</h3>
-  <img src="https://raw.githubusercontent.com/MicaelliCode/micaellicode/main/assets/code.gif" alt="Coding GIF" width="30"/>
+<a href="https://www.linkedin.com/in/dinesh-suryanand/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=social&logo=linkedin" alt="LinkedIn Profile"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:dineshsuryanand@icloud.com" target="_blank">
+<img src="https://img.shields.io/badge/Email-dineshsuryanand@icloud.com-D14836?style=social&logo=gmail" alt="Email Me"/>
+</a>
 </div>
