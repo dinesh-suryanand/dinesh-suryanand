@@ -34,16 +34,6 @@ Project Title	Core Technologies	Description
 Payment-Platform-MVP	Java, Spring Boot, Kafka, PostgreSQL	Building a complete, event-driven microservices payment system (current focus).
 [Project Name 2]	[Example: Angular, NodeJS, MongoDB]	[A short, impactful line describing what the project achieves or solves.]
 
-Export to Sheets
-Other Notable Projects
-[Repo Name]: [Short description of the repository's main purpose.]
-
-[Link to Repo]
-
-[Repo Name]: [Short description of the repository's main purpose.]
-
-[Link to Repo]
-
 📈 GitHub Stats
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=DineshSuryanand&show_icons=true&theme=vue&hide_border=true&include_all_commits=true&count_private=true&line_height=25&title_color=41B883&icon_color=41B883"
