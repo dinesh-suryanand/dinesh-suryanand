@@ -17,8 +17,6 @@ A Full-Stack Developer passionate about building robust, scalable systems with a
 ---
 
 🛠️ Core Technology Stack
-
----
 <div align="center">
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=java,spring,kotlin,angular,html,css,js,ts,python,go,docker,kubernetes,aws,gcp,git,github,vscode,postman,postgresql,mysql,mongodb,kafka,rabbitmq"
@@ -27,6 +25,8 @@ style="margin-bottom: 10px;"
 />
 </a>
 </div>
+
+---
 
 📈 GitHub Stats 
 <div align="center">
@@ -57,6 +57,9 @@ alt="Dinesh's Top Languages"
 </tr>
 </table>
 </div>
+
+---
+
 🌐 Connect With Me
 
 <div align="center">
