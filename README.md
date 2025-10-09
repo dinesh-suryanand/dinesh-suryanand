@@ -1,5 +1,5 @@
 ---
-💻 Dinesh Suryanand | Fintech & Full-Stack Developer
+
 <div align="center">
 <h1 align="center">Hello, I'm Dinesh! 👋</h1>
 
