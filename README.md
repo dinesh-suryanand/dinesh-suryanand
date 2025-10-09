@@ -55,7 +55,7 @@ style="margin-bottom: 10px;"
 <a href="https://www.linkedin.com/in/dinesh-suryanand/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=social&logo=linkedin" alt="LinkedIn Profile"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+<p></p>
 <a href="mailto:dineshsuryanand@icloud.com" target="_blank">
 <img src="https://img.shields.io/badge/Email-dineshsuryanand@icloud.com-D14836?style=social&logo=gmail" alt="Email Me"/>
 </a>
