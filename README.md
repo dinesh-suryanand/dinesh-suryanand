@@ -12,8 +12,8 @@ A Full-Stack Developer passionate about building robust, scalable systems with a
 <img src="https://img.shields.io/badge/Stack-Spring_Boot%20|%20Angular%20|%20Go-6DB33F?style=for-the-badge&logo=java&logoColor=white" alt="Stack Badge"/>
 <img src="https://img.shields.io/badge/Collaboration-Open_to_Ideas-5391FE?style=for-the-badge&logo=github&logoColor=white" alt="Collaboration Badge"/>
 </p>
----
 </div>
+---
 🛠️ Core Technology Stack
 <div align="center">
 <a href="https://skillicons.dev">
@@ -23,7 +23,7 @@ style="margin-bottom: 10px;"
 />
 </a>
 </div>
-
+---
 📈 GitHub Stats 
 <div align="center">
 <table>
@@ -53,8 +53,8 @@ alt="Dinesh's Top Languages"
 </tr>
 </table>
 </div>
----
 🌐 Connect With Me
+---
 <div align="center">
 <p>I'm always open to discussing new ideas, especially around backend performance and distributed systems.</p>
 
