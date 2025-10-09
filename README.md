@@ -24,7 +24,7 @@ style="margin-bottom: 10px;"
 </a>
 </div>
 
-📈 GitHub Stats (Fixed for dinesh-suryanand)
+📈 GitHub Stats
 <div align="center">
 
 <a href="[https://github.com/dinesh-suryanand](https://github.com/dinesh-suryanand)">
