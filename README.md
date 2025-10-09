@@ -14,7 +14,11 @@ A Full-Stack Developer passionate about building robust, scalable systems with a
 </p>
 </div>
 
+---
+
 🛠️ Core Technology Stack
+
+---
 <div align="center">
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=java,spring,kotlin,angular,html,css,js,ts,python,go,docker,kubernetes,aws,gcp,git,github,vscode,postman,postgresql,mysql,mongodb,kafka,rabbitmq"
