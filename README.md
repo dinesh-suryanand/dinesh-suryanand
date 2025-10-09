@@ -56,6 +56,8 @@ style="margin-bottom: 10px;"
   </a>
 </div>
 
+---
+
 🌐 Connect With Me
 <div align="center">
 <p>I'm always open to discussing new ideas, especially around backend performance and distributed systems.</p>
