@@ -34,20 +34,22 @@ Project Title	Core Technologies	Description
 Payment-Platform-MVP	Java, Spring Boot, Kafka, PostgreSQL	Building a complete, event-driven microservices payment system (current focus).
 [Project Name 2]	[Example: Angular, NodeJS, MongoDB]	[A short, impactful line describing what the project achieves or solves.]
 
-📈 GitHub Stats
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DineshSuryanand&show_icons=true&theme=vue&hide_border=true&include_all_commits=true&count_private=true&line_height=25&title_color=41B883&icon_color=41B883"
-alt="Dinesh's GitHub Stats"
-style="margin-bottom: 15px;"
-/>
+<h2 align="center">📈 GitHub Stats</h2>
 
-<img src="[https://github-readme-streak-stats.herokuapp.com/?user=DineshSuryanand&theme=vue&hide_border=true&ring=41B883&currstreak=41B883&title_color=41B883&fire=41B883](https://github-readme-streak-stats.herokuapp.com/?user=DineshSuryanand&theme=vue&hide_border=true&ring=41B883&currstreak=41B883&title_color=41B883&fire=41B883)" 
-     alt="Dinesh's GitHub Streak" 
-     style="margin-bottom: 15px;"
-     />
-<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=DineshSuryanand&layout=compact&theme=vue&hide_border=true&langs_count=6&title_color=41B883&icon_color=41B883](https://github-readme-stats.vercel.app/api/top-langs/?username=DineshSuryanand&layout=compact&theme=vue&hide_border=true&langs_count=6&title_color=41B883&icon_color=41B883)" 
-     alt="Dinesh's Top Languages" 
-     />
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=DineshSuryanand&show_icons=true&theme=vue&hide_border=true&include_all_commits=true&count_private=true&line_height=25&title_color=41B883&icon_color=41B883" 
+         alt="Dinesh's GitHub Stats" 
+         style="margin-bottom: 15px;"
+    />
+    
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DineshSuryanand&theme=vue&hide_border=true&ring=41B883&currstreak=41B883&title_color=41B883&fire=41B883" 
+         alt="Dinesh's GitHub Streak" 
+         style="margin-bottom: 15px;"
+    />
+    
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DineshSuryanand&layout=compact&theme=vue&hide_border=true&langs_count=6&title_color=41B883&icon_color=41B883" 
+         alt="Dinesh's Top Languages" 
+    />
 </div>
 
 🌐 Connect With Me
