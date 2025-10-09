@@ -5,7 +5,7 @@
     <a href="https://linkedin.com/in/dinesh-suryanand/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
     </a>
-    <a href="mailto:YOUREMAIL@example.com" target="_blank">
+    <a href="mailto:dineshsuryanand@icloud.com" target="_blank">
       <img src="https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
     </a>
   </p>
