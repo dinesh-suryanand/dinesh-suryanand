@@ -34,7 +34,7 @@ Project Title	Core Technologies	Description
 Payment-Platform-MVP	Java, Spring Boot, Kafka, PostgreSQL	Building a complete, event-driven microservices payment system (current focus).
 [Project Name 2]	[Example: Angular, NodeJS, MongoDB]	[A short, impactful line describing what the project achieves or solves.]
 
-📈 GitHub Stats
+<h2 align="center">📈 GitHub Stats</h2>
 
 <div align="center">
     
