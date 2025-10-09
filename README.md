@@ -11,3 +11,15 @@ A Full-Stack Developer passionate about building robust, scalable systems with a
 <img src="https://img.shields.io/badge/Stack-Spring_Boot%20|%20Angular%20|%20Go-6DB33F?style=for-for-the-badge&logo=java&logoColor=white" alt="Stack Badge"/>
 <img src="https://img.shields.io/badge/Collaboration-Open%20to%20Ideas-5391FE?style=for-the-badge&logo=github&logoColor=white" alt="Collaboration Badge"/>
 </p>
+
+</div>
+
+🛠️ Core Technology Stack
+<div align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=java,spring,kotlin,angular,html,css,js,ts,python,go,docker,kubernetes,aws,gcp,git,github,vscode,postman,postgresql,mysql,mongodb,kafka,rabbitmq"
+alt="Core Technology Stack"
+style="margin-bottom: 10px;"
+/>
+</a>
+</div>
